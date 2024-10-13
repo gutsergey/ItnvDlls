@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>ItnvSignalR</id>
+    <version>1.0.0</version>
+    <title>ItnvSignalR</title>
+    <authors>Itnv SG</authors>
+    <owners>Itnv</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://license_url_here_or_delete_this_line/</licenseUrl>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>Client and Server SignalR.dll for messaging</description>
+    <copyright>Copyright 2024</copyright>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.SignalR.Client" version="2.4.3" />
+      <dependency id="Microsoft.AspNet.SignalR.Core" version="2.4.3" />
+      <dependency id="Microsoft.Owin.Cors" version="4.2.2" />
+      <dependency id="Microsoft.Owin.Diagnostics" version="4.2.2" />
+      <dependency id="Microsoft.Owin.Host.HttpListener" version="4.2.2" />
+      <dependency id="Microsoft.Owin.Hosting" version="4.2.2" />
+    </dependencies>
+  </metadata>
+</package>

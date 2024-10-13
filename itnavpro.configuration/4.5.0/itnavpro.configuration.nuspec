@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Itnavpro.Configuration</id>
+    <version>4.5.0</version>
+    <title>Itnavpro.Configuration</title>
+    <authors>Itnavpro</authors>
+    <owners>Itnavpro</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://license_url_here_or_delete_this_line/</licenseUrl>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>This dll loads configuration config file or db</description>
+    <copyright>Copyright 2024</copyright>
+    <dependencies>
+      <dependency id="log4net" version="2.0.12" />
+      <dependency id="Newtonsoft.Json" version="13.0.1" />
+    </dependencies>
+  </metadata>
+</package>
